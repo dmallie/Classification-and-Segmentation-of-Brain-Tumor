@@ -1,0 +1,4 @@
+System's Performance
+	- Model loss: 5162.078
+	- Model's classification accuracy: 0.145
+	- Model's prediction: 458/3162
