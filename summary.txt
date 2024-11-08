@@ -1,4 +1,8 @@
 System's Performance
-	- Model loss: 5162.078
-	- Model's classification accuracy: 0.145
-	- Model's prediction: 458/3162
+	- Model loss: 0.101
+	- Model's classification accuracy: 0.973
+	- Model's prediction: 2905/2986
+	- Accuracy of Healthy Dataset: 533/541 ie 98.521%
+	- Accuracy of Pituitary Dataset: 763/774 ie 98.579%
+	- Accuracy of Glioma Dataset: 831/867 ie 95.848%
+	- Accuracy of Meningioma Dataset: 778/804 ie 96.766%
