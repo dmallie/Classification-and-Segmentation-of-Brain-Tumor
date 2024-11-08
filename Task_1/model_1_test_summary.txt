@@ -1,0 +1,5 @@
+Model_1 detects tumor from a brain MRI scan.
+Model_1's Performance
+	- Model loss: 0.033
+	- Model's classification accuracy: 0.989
+	- Model's prediction: 4002/4047

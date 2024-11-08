@@ -1,0 +1,4 @@
+Model_2's Performance
+	- Model loss: 0.000
+	- Model's classification accuracy: 0.997
+	- Model's prediction: 2434/2442
